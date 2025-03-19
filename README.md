@@ -1,3 +1,3 @@
 # mydemo
 my first repo
-author -aayush
+author -aayuush
